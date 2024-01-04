@@ -1,0 +1,8 @@
+név$gyártási dátum
+Audi A1$2000
+Dacia Sandero$2010
+Opel Corsa$2019
+Peugeot 2008$2008
+Skoda Fabia$2015
+Seat Ibiza$2011
+Suzuki Swift$1999
